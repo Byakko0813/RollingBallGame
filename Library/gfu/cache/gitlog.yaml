@@ -11,4 +11,2368 @@ MonoBehaviour:
   m_Script: {fileID: -530159753, guid: 5c0867b0f679bcd4dabd0752a4a1554b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  log: []
+  log:
+  - CommitID: 6305bf5924597e21adbae9d6fc1899a778ac506f
+    MergeA: 
+    MergeB: 
+    AuthorName: "\u77E2\u90E8\u3000\u512A\u8CB4"
+    AuthorEmail: yuki-yabe0813@docomo.ne.jp
+    CommitEmail: yuki-yabe0813@docomo.ne.jp
+    CommitName: "\u77E2\u90E8\u3000\u512A\u8CB4"
+    Summary: First commit
+    Description: First commit
+    TimeString: 09/20/2017 19:47:39 +09:00
+    CommitTimeString: 09/20/2017 19:47:39 +09:00
+    Changes:
+    - Path: Assembly-CSharp.csproj
+      FullPath: /Users/azabu06/TrainingGame/Assembly-CSharp.csproj
+      ProjectPath: Assembly-CSharp.csproj
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Materials.meta
+      FullPath: /Users/azabu06/TrainingGame/Assets/Materials.meta
+      ProjectPath: Assets/Materials.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Materials/Goal Material 1.mat
+      FullPath: /Users/azabu06/TrainingGame/Assets/Materials/Goal Material 1.mat
+      ProjectPath: Assets/Materials/Goal Material 1.mat
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Materials/Goal Material 1.mat.meta
+      FullPath: /Users/azabu06/TrainingGame/Assets/Materials/Goal Material 1.mat.meta
+      ProjectPath: Assets/Materials/Goal Material 1.mat.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Materials/Goaldammy Material.mat
+      FullPath: /Users/azabu06/TrainingGame/Assets/Materials/Goaldammy Material.mat
+      ProjectPath: Assets/Materials/Goaldammy Material.mat
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Materials/Goaldammy Material.mat.meta
+      FullPath: /Users/azabu06/TrainingGame/Assets/Materials/Goaldammy Material.mat.meta
+      ProjectPath: Assets/Materials/Goaldammy Material.mat.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Materials/floormaterial.mat
+      FullPath: /Users/azabu06/TrainingGame/Assets/Materials/floormaterial.mat
+      ProjectPath: Assets/Materials/floormaterial.mat
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Materials/floormaterial.mat.meta
+      FullPath: /Users/azabu06/TrainingGame/Assets/Materials/floormaterial.mat.meta
+      ProjectPath: Assets/Materials/floormaterial.mat.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Materials/retrymaterial.mat
+      FullPath: /Users/azabu06/TrainingGame/Assets/Materials/retrymaterial.mat
+      ProjectPath: Assets/Materials/retrymaterial.mat
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Materials/retrymaterial.mat.meta
+      FullPath: /Users/azabu06/TrainingGame/Assets/Materials/retrymaterial.mat.meta
+      ProjectPath: Assets/Materials/retrymaterial.mat.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Materials/wallmaterial.mat
+      FullPath: /Users/azabu06/TrainingGame/Assets/Materials/wallmaterial.mat
+      ProjectPath: Assets/Materials/wallmaterial.mat
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Materials/wallmaterial.mat.meta
+      FullPath: /Users/azabu06/TrainingGame/Assets/Materials/wallmaterial.mat.meta
+      ProjectPath: Assets/Materials/wallmaterial.mat.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Plugins.meta
+      FullPath: /Users/azabu06/TrainingGame/Assets/Plugins.meta
+      ProjectPath: Assets/Plugins.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Plugins/GitHub.meta
+      FullPath: /Users/azabu06/TrainingGame/Assets/Plugins/GitHub.meta
+      ProjectPath: Assets/Plugins/GitHub.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Plugins/GitHub/Editor.meta
+      FullPath: /Users/azabu06/TrainingGame/Assets/Plugins/GitHub/Editor.meta
+      ProjectPath: Assets/Plugins/GitHub/Editor.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+      FullPath: /Users/azabu06/TrainingGame/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+      ProjectPath: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+      FullPath: /Users/azabu06/TrainingGame/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+      ProjectPath: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Plugins/GitHub/Editor/CREDITS.txt
+      FullPath: /Users/azabu06/TrainingGame/Assets/Plugins/GitHub/Editor/CREDITS.txt
+      ProjectPath: Assets/Plugins/GitHub/Editor/CREDITS.txt
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Plugins/GitHub/Editor/CREDITS.txt.meta
+      FullPath: /Users/azabu06/TrainingGame/Assets/Plugins/GitHub/Editor/CREDITS.txt.meta
+      ProjectPath: Assets/Plugins/GitHub/Editor/CREDITS.txt.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Plugins/GitHub/Editor/EULA.txt
+      FullPath: /Users/azabu06/TrainingGame/Assets/Plugins/GitHub/Editor/EULA.txt
+      ProjectPath: Assets/Plugins/GitHub/Editor/EULA.txt
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Plugins/GitHub/Editor/EULA.txt.meta
+      FullPath: /Users/azabu06/TrainingGame/Assets/Plugins/GitHub/Editor/EULA.txt.meta
+      ProjectPath: Assets/Plugins/GitHub/Editor/EULA.txt.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+      FullPath: /Users/azabu06/TrainingGame/Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+      ProjectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb
+      FullPath: /Users/azabu06/TrainingGame/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb
+      ProjectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb.meta
+      FullPath: /Users/azabu06/TrainingGame/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb.meta
+      ProjectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+      FullPath: /Users/azabu06/TrainingGame/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+      ProjectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+      FullPath: /Users/azabu06/TrainingGame/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+      ProjectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb
+      FullPath: /Users/azabu06/TrainingGame/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb
+      ProjectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb.meta
+      FullPath: /Users/azabu06/TrainingGame/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb.meta
+      ProjectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+      FullPath: /Users/azabu06/TrainingGame/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+      ProjectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+      FullPath: /Users/azabu06/TrainingGame/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+      ProjectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb
+      FullPath: /Users/azabu06/TrainingGame/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb
+      ProjectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb.meta
+      FullPath: /Users/azabu06/TrainingGame/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb.meta
+      ProjectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+      FullPath: /Users/azabu06/TrainingGame/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+      ProjectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Plugins/GitHub/Editor/ICSharpCode.SharpZipLib.dll
+      FullPath: /Users/azabu06/TrainingGame/Assets/Plugins/GitHub/Editor/ICSharpCode.SharpZipLib.dll
+      ProjectPath: Assets/Plugins/GitHub/Editor/ICSharpCode.SharpZipLib.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Plugins/GitHub/Editor/ICSharpCode.SharpZipLib.dll.meta
+      FullPath: /Users/azabu06/TrainingGame/Assets/Plugins/GitHub/Editor/ICSharpCode.SharpZipLib.dll.meta
+      ProjectPath: Assets/Plugins/GitHub/Editor/ICSharpCode.SharpZipLib.dll.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+      FullPath: /Users/azabu06/TrainingGame/Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+      ProjectPath: Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+      FullPath: /Users/azabu06/TrainingGame/Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+      ProjectPath: Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Plugins/GitHub/Editor/Mono.Security.dll
+      FullPath: /Users/azabu06/TrainingGame/Assets/Plugins/GitHub/Editor/Mono.Security.dll
+      ProjectPath: Assets/Plugins/GitHub/Editor/Mono.Security.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Plugins/GitHub/Editor/Mono.Security.dll.meta
+      FullPath: /Users/azabu06/TrainingGame/Assets/Plugins/GitHub/Editor/Mono.Security.dll.meta
+      ProjectPath: Assets/Plugins/GitHub/Editor/Mono.Security.dll.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Plugins/GitHub/Editor/Octokit.dll
+      FullPath: /Users/azabu06/TrainingGame/Assets/Plugins/GitHub/Editor/Octokit.dll
+      ProjectPath: Assets/Plugins/GitHub/Editor/Octokit.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Plugins/GitHub/Editor/Octokit.dll.meta
+      FullPath: /Users/azabu06/TrainingGame/Assets/Plugins/GitHub/Editor/Octokit.dll.meta
+      ProjectPath: Assets/Plugins/GitHub/Editor/Octokit.dll.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Plugins/GitHub/Editor/PlatformResources.meta
+      FullPath: /Users/azabu06/TrainingGame/Assets/Plugins/GitHub/Editor/PlatformResources.meta
+      ProjectPath: Assets/Plugins/GitHub/Editor/PlatformResources.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Plugins/GitHub/Editor/PlatformResources/mac.meta
+      FullPath: /Users/azabu06/TrainingGame/Assets/Plugins/GitHub/Editor/PlatformResources/mac.meta
+      ProjectPath: Assets/Plugins/GitHub/Editor/PlatformResources/mac.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Plugins/GitHub/Editor/PlatformResources/mac/git-lfs.zip
+      FullPath: /Users/azabu06/TrainingGame/Assets/Plugins/GitHub/Editor/PlatformResources/mac/git-lfs.zip
+      ProjectPath: Assets/Plugins/GitHub/Editor/PlatformResources/mac/git-lfs.zip
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Plugins/GitHub/Editor/PlatformResources/mac/git-lfs.zip.meta
+      FullPath: /Users/azabu06/TrainingGame/Assets/Plugins/GitHub/Editor/PlatformResources/mac/git-lfs.zip.meta
+      ProjectPath: Assets/Plugins/GitHub/Editor/PlatformResources/mac/git-lfs.zip.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Plugins/GitHub/Editor/PlatformResources/windows.meta
+      FullPath: /Users/azabu06/TrainingGame/Assets/Plugins/GitHub/Editor/PlatformResources/windows.meta
+      ProjectPath: Assets/Plugins/GitHub/Editor/PlatformResources/windows.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Plugins/GitHub/Editor/PlatformResources/windows/git-lfs.zip
+      FullPath: /Users/azabu06/TrainingGame/Assets/Plugins/GitHub/Editor/PlatformResources/windows/git-lfs.zip
+      ProjectPath: Assets/Plugins/GitHub/Editor/PlatformResources/windows/git-lfs.zip
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Plugins/GitHub/Editor/PlatformResources/windows/git-lfs.zip.meta
+      FullPath: /Users/azabu06/TrainingGame/Assets/Plugins/GitHub/Editor/PlatformResources/windows/git-lfs.zip.meta
+      ProjectPath: Assets/Plugins/GitHub/Editor/PlatformResources/windows/git-lfs.zip.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Plugins/GitHub/Editor/PlatformResources/windows/git.zip
+      FullPath: /Users/azabu06/TrainingGame/Assets/Plugins/GitHub/Editor/PlatformResources/windows/git.zip
+      ProjectPath: Assets/Plugins/GitHub/Editor/PlatformResources/windows/git.zip
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Plugins/GitHub/Editor/PlatformResources/windows/git.zip.meta
+      FullPath: /Users/azabu06/TrainingGame/Assets/Plugins/GitHub/Editor/PlatformResources/windows/git.zip.meta
+      ProjectPath: Assets/Plugins/GitHub/Editor/PlatformResources/windows/git.zip.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Plugins/GitHub/Editor/Rackspace.Threading.dll
+      FullPath: /Users/azabu06/TrainingGame/Assets/Plugins/GitHub/Editor/Rackspace.Threading.dll
+      ProjectPath: Assets/Plugins/GitHub/Editor/Rackspace.Threading.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Plugins/GitHub/Editor/Rackspace.Threading.dll.meta
+      FullPath: /Users/azabu06/TrainingGame/Assets/Plugins/GitHub/Editor/Rackspace.Threading.dll.meta
+      ProjectPath: Assets/Plugins/GitHub/Editor/Rackspace.Threading.dll.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+      FullPath: /Users/azabu06/TrainingGame/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+      ProjectPath: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+      FullPath: /Users/azabu06/TrainingGame/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+      ProjectPath: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Plugins/GitHub/Editor/System.Net.Http.dll
+      FullPath: /Users/azabu06/TrainingGame/Assets/Plugins/GitHub/Editor/System.Net.Http.dll
+      ProjectPath: Assets/Plugins/GitHub/Editor/System.Net.Http.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Plugins/GitHub/Editor/System.Net.Http.dll.meta
+      FullPath: /Users/azabu06/TrainingGame/Assets/Plugins/GitHub/Editor/System.Net.Http.dll.meta
+      ProjectPath: Assets/Plugins/GitHub/Editor/System.Net.Http.dll.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Plugins/GitHub/Editor/System.Threading.dll
+      FullPath: /Users/azabu06/TrainingGame/Assets/Plugins/GitHub/Editor/System.Threading.dll
+      ProjectPath: Assets/Plugins/GitHub/Editor/System.Threading.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+      FullPath: /Users/azabu06/TrainingGame/Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+      ProjectPath: Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Plugins/GitHub/Editor/libsfw.bundle
+      FullPath: /Users/azabu06/TrainingGame/Assets/Plugins/GitHub/Editor/libsfw.bundle
+      ProjectPath: Assets/Plugins/GitHub/Editor/libsfw.bundle
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+      FullPath: /Users/azabu06/TrainingGame/Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+      ProjectPath: Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Plugins/GitHub/Editor/libsfw.so
+      FullPath: /Users/azabu06/TrainingGame/Assets/Plugins/GitHub/Editor/libsfw.so
+      ProjectPath: Assets/Plugins/GitHub/Editor/libsfw.so
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Plugins/GitHub/Editor/libsfw.so.meta
+      FullPath: /Users/azabu06/TrainingGame/Assets/Plugins/GitHub/Editor/libsfw.so.meta
+      ProjectPath: Assets/Plugins/GitHub/Editor/libsfw.so.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Plugins/GitHub/Editor/sfw.net.dll
+      FullPath: /Users/azabu06/TrainingGame/Assets/Plugins/GitHub/Editor/sfw.net.dll
+      ProjectPath: Assets/Plugins/GitHub/Editor/sfw.net.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+      FullPath: /Users/azabu06/TrainingGame/Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+      ProjectPath: Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Plugins/GitHub/Editor/x64.meta
+      FullPath: /Users/azabu06/TrainingGame/Assets/Plugins/GitHub/Editor/x64.meta
+      ProjectPath: Assets/Plugins/GitHub/Editor/x64.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+      FullPath: /Users/azabu06/TrainingGame/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+      ProjectPath: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+      FullPath: /Users/azabu06/TrainingGame/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+      ProjectPath: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+      FullPath: /Users/azabu06/TrainingGame/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+      ProjectPath: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+      FullPath: /Users/azabu06/TrainingGame/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+      ProjectPath: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Plugins/GitHub/Editor/x86.meta
+      FullPath: /Users/azabu06/TrainingGame/Assets/Plugins/GitHub/Editor/x86.meta
+      ProjectPath: Assets/Plugins/GitHub/Editor/x86.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+      FullPath: /Users/azabu06/TrainingGame/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+      ProjectPath: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+      FullPath: /Users/azabu06/TrainingGame/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+      ProjectPath: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+      FullPath: /Users/azabu06/TrainingGame/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+      ProjectPath: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+      FullPath: /Users/azabu06/TrainingGame/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+      ProjectPath: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Scenes.meta
+      FullPath: /Users/azabu06/TrainingGame/Assets/Scenes.meta
+      ProjectPath: Assets/Scenes.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Scenes/Game.meta
+      FullPath: /Users/azabu06/TrainingGame/Assets/Scenes/Game.meta
+      ProjectPath: Assets/Scenes/Game.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Scenes/Game.unity
+      FullPath: /Users/azabu06/TrainingGame/Assets/Scenes/Game.unity
+      ProjectPath: Assets/Scenes/Game.unity
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Scenes/Game.unity.meta
+      FullPath: /Users/azabu06/TrainingGame/Assets/Scenes/Game.unity.meta
+      ProjectPath: Assets/Scenes/Game.unity.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Scenes/Game/LightingData.asset
+      FullPath: /Users/azabu06/TrainingGame/Assets/Scenes/Game/LightingData.asset
+      ProjectPath: Assets/Scenes/Game/LightingData.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Scenes/Game/LightingData.asset.meta
+      FullPath: /Users/azabu06/TrainingGame/Assets/Scenes/Game/LightingData.asset.meta
+      ProjectPath: Assets/Scenes/Game/LightingData.asset.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Scenes/Game/ReflectionProbe-0.exr
+      FullPath: /Users/azabu06/TrainingGame/Assets/Scenes/Game/ReflectionProbe-0.exr
+      ProjectPath: Assets/Scenes/Game/ReflectionProbe-0.exr
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Scenes/Game/ReflectionProbe-0.exr.meta
+      FullPath: /Users/azabu06/TrainingGame/Assets/Scenes/Game/ReflectionProbe-0.exr.meta
+      ProjectPath: Assets/Scenes/Game/ReflectionProbe-0.exr.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Scripts.meta
+      FullPath: /Users/azabu06/TrainingGame/Assets/Scripts.meta
+      ProjectPath: Assets/Scripts.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Scripts/Followplayer.cs
+      FullPath: /Users/azabu06/TrainingGame/Assets/Scripts/Followplayer.cs
+      ProjectPath: Assets/Scripts/Followplayer.cs
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Scripts/Followplayer.cs.meta
+      FullPath: /Users/azabu06/TrainingGame/Assets/Scripts/Followplayer.cs.meta
+      ProjectPath: Assets/Scripts/Followplayer.cs.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Scripts/GoalController.cs
+      FullPath: /Users/azabu06/TrainingGame/Assets/Scripts/GoalController.cs
+      ProjectPath: Assets/Scripts/GoalController.cs
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Scripts/GoalController.cs.meta
+      FullPath: /Users/azabu06/TrainingGame/Assets/Scripts/GoalController.cs.meta
+      ProjectPath: Assets/Scripts/GoalController.cs.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Scripts/GoalController2.cs
+      FullPath: /Users/azabu06/TrainingGame/Assets/Scripts/GoalController2.cs
+      ProjectPath: Assets/Scripts/GoalController2.cs
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Scripts/GoalController2.cs.meta
+      FullPath: /Users/azabu06/TrainingGame/Assets/Scripts/GoalController2.cs.meta
+      ProjectPath: Assets/Scripts/GoalController2.cs.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Scripts/PlayerController.cs
+      FullPath: /Users/azabu06/TrainingGame/Assets/Scripts/PlayerController.cs
+      ProjectPath: Assets/Scripts/PlayerController.cs
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Scripts/PlayerController.cs.meta
+      FullPath: /Users/azabu06/TrainingGame/Assets/Scripts/PlayerController.cs.meta
+      ProjectPath: Assets/Scripts/PlayerController.cs.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Scripts/RetryButtonController.cs
+      FullPath: /Users/azabu06/TrainingGame/Assets/Scripts/RetryButtonController.cs
+      ProjectPath: Assets/Scripts/RetryButtonController.cs
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Scripts/RetryButtonController.cs.meta
+      FullPath: /Users/azabu06/TrainingGame/Assets/Scripts/RetryButtonController.cs.meta
+      ProjectPath: Assets/Scripts/RetryButtonController.cs.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Scripts/UIController.cs
+      FullPath: /Users/azabu06/TrainingGame/Assets/Scripts/UIController.cs
+      ProjectPath: Assets/Scripts/UIController.cs
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Scripts/UIController.cs.meta
+      FullPath: /Users/azabu06/TrainingGame/Assets/Scripts/UIController.cs.meta
+      ProjectPath: Assets/Scripts/UIController.cs.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/AnnotationManager
+      FullPath: /Users/azabu06/TrainingGame/Library/AnnotationManager
+      ProjectPath: Library/AnnotationManager
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/AssetImportState
+      FullPath: /Users/azabu06/TrainingGame/Library/AssetImportState
+      ProjectPath: Library/AssetImportState
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/BuildPlayer.prefs
+      FullPath: /Users/azabu06/TrainingGame/Library/BuildPlayer.prefs
+      ProjectPath: Library/BuildPlayer.prefs
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/BuildSettings.asset
+      FullPath: /Users/azabu06/TrainingGame/Library/BuildSettings.asset
+      ProjectPath: Library/BuildSettings.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/CurrentLayout.dwlt
+      FullPath: /Users/azabu06/TrainingGame/Library/CurrentLayout.dwlt
+      ProjectPath: Library/CurrentLayout.dwlt
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/EditorInstance.json
+      FullPath: /Users/azabu06/TrainingGame/Library/EditorInstance.json
+      ProjectPath: Library/EditorInstance.json
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/EditorUserBuildSettings.asset
+      FullPath: /Users/azabu06/TrainingGame/Library/EditorUserBuildSettings.asset
+      ProjectPath: Library/EditorUserBuildSettings.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/EditorUserSettings.asset
+      FullPath: /Users/azabu06/TrainingGame/Library/EditorUserSettings.asset
+      ProjectPath: Library/EditorUserSettings.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/InspectorExpandedItems.asset
+      FullPath: /Users/azabu06/TrainingGame/Library/InspectorExpandedItems.asset
+      ProjectPath: Library/InspectorExpandedItems.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/LastSceneManagerSetup.txt
+      FullPath: /Users/azabu06/TrainingGame/Library/LastSceneManagerSetup.txt
+      ProjectPath: Library/LastSceneManagerSetup.txt
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/LibraryFormatVersion.txt
+      FullPath: /Users/azabu06/TrainingGame/Library/LibraryFormatVersion.txt
+      ProjectPath: Library/LibraryFormatVersion.txt
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/MonoManager.asset
+      FullPath: /Users/azabu06/TrainingGame/Library/MonoManager.asset
+      ProjectPath: Library/MonoManager.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/ProjectSettings.asset
+      FullPath: /Users/azabu06/TrainingGame/Library/ProjectSettings.asset
+      ProjectPath: Library/ProjectSettings.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/ScriptAssemblies/Assembly-CSharp.dll
+      FullPath: /Users/azabu06/TrainingGame/Library/ScriptAssemblies/Assembly-CSharp.dll
+      ProjectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+      FullPath: /Users/azabu06/TrainingGame/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+      ProjectPath: Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/ScriptAssemblies/BuiltinAssemblies.stamp
+      FullPath: /Users/azabu06/TrainingGame/Library/ScriptAssemblies/BuiltinAssemblies.stamp
+      ProjectPath: Library/ScriptAssemblies/BuiltinAssemblies.stamp
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/ScriptMapper
+      FullPath: /Users/azabu06/TrainingGame/Library/ScriptMapper
+      ProjectPath: Library/ScriptMapper
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/ShaderCache.db
+      FullPath: /Users/azabu06/TrainingGame/Library/ShaderCache.db
+      ProjectPath: Library/ShaderCache.db
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/ShaderCache/0/06f69124cf06d357c82fb5c072d34c35.bin
+      FullPath: /Users/azabu06/TrainingGame/Library/ShaderCache/0/06f69124cf06d357c82fb5c072d34c35.bin
+      ProjectPath: Library/ShaderCache/0/06f69124cf06d357c82fb5c072d34c35.bin
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/ShaderCache/1/10193fbd1b9f2ed03649b93a3ef66c21.bin
+      FullPath: /Users/azabu06/TrainingGame/Library/ShaderCache/1/10193fbd1b9f2ed03649b93a3ef66c21.bin
+      ProjectPath: Library/ShaderCache/1/10193fbd1b9f2ed03649b93a3ef66c21.bin
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/ShaderCache/1/1ee0117198ca1ea24c0a92ceb8f9c9d9.bin
+      FullPath: /Users/azabu06/TrainingGame/Library/ShaderCache/1/1ee0117198ca1ea24c0a92ceb8f9c9d9.bin
+      ProjectPath: Library/ShaderCache/1/1ee0117198ca1ea24c0a92ceb8f9c9d9.bin
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/ShaderCache/2/2363712bfd5eaef7082d70444a96210c.bin
+      FullPath: /Users/azabu06/TrainingGame/Library/ShaderCache/2/2363712bfd5eaef7082d70444a96210c.bin
+      ProjectPath: Library/ShaderCache/2/2363712bfd5eaef7082d70444a96210c.bin
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/ShaderCache/2/2a494f69821bf034e9b5b33696c8c525.bin
+      FullPath: /Users/azabu06/TrainingGame/Library/ShaderCache/2/2a494f69821bf034e9b5b33696c8c525.bin
+      ProjectPath: Library/ShaderCache/2/2a494f69821bf034e9b5b33696c8c525.bin
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/ShaderCache/2/2bd597f19de1b78c3cdfad54681f59cb.bin
+      FullPath: /Users/azabu06/TrainingGame/Library/ShaderCache/2/2bd597f19de1b78c3cdfad54681f59cb.bin
+      ProjectPath: Library/ShaderCache/2/2bd597f19de1b78c3cdfad54681f59cb.bin
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/ShaderCache/3/3fd92b679f2abe7b9caa01eb07818074.bin
+      FullPath: /Users/azabu06/TrainingGame/Library/ShaderCache/3/3fd92b679f2abe7b9caa01eb07818074.bin
+      ProjectPath: Library/ShaderCache/3/3fd92b679f2abe7b9caa01eb07818074.bin
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/ShaderCache/4/42301ec9c3db75189eb9f8ae085d940c.bin
+      FullPath: /Users/azabu06/TrainingGame/Library/ShaderCache/4/42301ec9c3db75189eb9f8ae085d940c.bin
+      ProjectPath: Library/ShaderCache/4/42301ec9c3db75189eb9f8ae085d940c.bin
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/ShaderCache/4/49208fd90cb7251b342cfdf165590a25.bin
+      FullPath: /Users/azabu06/TrainingGame/Library/ShaderCache/4/49208fd90cb7251b342cfdf165590a25.bin
+      ProjectPath: Library/ShaderCache/4/49208fd90cb7251b342cfdf165590a25.bin
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/ShaderCache/5/519778d7ceadd237043ff5ee28a10cfe.bin
+      FullPath: /Users/azabu06/TrainingGame/Library/ShaderCache/5/519778d7ceadd237043ff5ee28a10cfe.bin
+      ProjectPath: Library/ShaderCache/5/519778d7ceadd237043ff5ee28a10cfe.bin
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/ShaderCache/5/528296d3b234247c1019c095c360af17.bin
+      FullPath: /Users/azabu06/TrainingGame/Library/ShaderCache/5/528296d3b234247c1019c095c360af17.bin
+      ProjectPath: Library/ShaderCache/5/528296d3b234247c1019c095c360af17.bin
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/ShaderCache/5/534db3a228d2255746c03e62da458337.bin
+      FullPath: /Users/azabu06/TrainingGame/Library/ShaderCache/5/534db3a228d2255746c03e62da458337.bin
+      ProjectPath: Library/ShaderCache/5/534db3a228d2255746c03e62da458337.bin
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/ShaderCache/5/5e2164a7265fe7f7b90d613803212b1a.bin
+      FullPath: /Users/azabu06/TrainingGame/Library/ShaderCache/5/5e2164a7265fe7f7b90d613803212b1a.bin
+      ProjectPath: Library/ShaderCache/5/5e2164a7265fe7f7b90d613803212b1a.bin
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/ShaderCache/6/60099c37d5b2a0a2a3f396223f73c92e.bin
+      FullPath: /Users/azabu06/TrainingGame/Library/ShaderCache/6/60099c37d5b2a0a2a3f396223f73c92e.bin
+      ProjectPath: Library/ShaderCache/6/60099c37d5b2a0a2a3f396223f73c92e.bin
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/ShaderCache/6/636357e4eb7f15772a9344e72d40cc17.bin
+      FullPath: /Users/azabu06/TrainingGame/Library/ShaderCache/6/636357e4eb7f15772a9344e72d40cc17.bin
+      ProjectPath: Library/ShaderCache/6/636357e4eb7f15772a9344e72d40cc17.bin
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/ShaderCache/6/67ada9c47225da34b45ab38c314504cf.bin
+      FullPath: /Users/azabu06/TrainingGame/Library/ShaderCache/6/67ada9c47225da34b45ab38c314504cf.bin
+      ProjectPath: Library/ShaderCache/6/67ada9c47225da34b45ab38c314504cf.bin
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/ShaderCache/6/6ab71af2bd2e9957bf074214dd4555f5.bin
+      FullPath: /Users/azabu06/TrainingGame/Library/ShaderCache/6/6ab71af2bd2e9957bf074214dd4555f5.bin
+      ProjectPath: Library/ShaderCache/6/6ab71af2bd2e9957bf074214dd4555f5.bin
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/ShaderCache/7/75555f587097d856c33e899262279e74.bin
+      FullPath: /Users/azabu06/TrainingGame/Library/ShaderCache/7/75555f587097d856c33e899262279e74.bin
+      ProjectPath: Library/ShaderCache/7/75555f587097d856c33e899262279e74.bin
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/ShaderCache/7/7a6c093a41ffa634719ddff5cc2785ef.bin
+      FullPath: /Users/azabu06/TrainingGame/Library/ShaderCache/7/7a6c093a41ffa634719ddff5cc2785ef.bin
+      ProjectPath: Library/ShaderCache/7/7a6c093a41ffa634719ddff5cc2785ef.bin
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/ShaderCache/7/7ca4d55b1d32b2b78f3fa2a7ecafc6b5.bin
+      FullPath: /Users/azabu06/TrainingGame/Library/ShaderCache/7/7ca4d55b1d32b2b78f3fa2a7ecafc6b5.bin
+      ProjectPath: Library/ShaderCache/7/7ca4d55b1d32b2b78f3fa2a7ecafc6b5.bin
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/ShaderCache/8/8e4476e3a54e2b3acc93573b8cd8a6df.bin
+      FullPath: /Users/azabu06/TrainingGame/Library/ShaderCache/8/8e4476e3a54e2b3acc93573b8cd8a6df.bin
+      ProjectPath: Library/ShaderCache/8/8e4476e3a54e2b3acc93573b8cd8a6df.bin
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/ShaderCache/9/931a8ba33c8cc8df9122c0f87954c867.bin
+      FullPath: /Users/azabu06/TrainingGame/Library/ShaderCache/9/931a8ba33c8cc8df9122c0f87954c867.bin
+      ProjectPath: Library/ShaderCache/9/931a8ba33c8cc8df9122c0f87954c867.bin
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/ShaderCache/9/9c0ba92381650ad48b0e07a9f405804f.bin
+      FullPath: /Users/azabu06/TrainingGame/Library/ShaderCache/9/9c0ba92381650ad48b0e07a9f405804f.bin
+      ProjectPath: Library/ShaderCache/9/9c0ba92381650ad48b0e07a9f405804f.bin
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/ShaderCache/a/a71611192af81aab5685f0306477bc26.bin
+      FullPath: /Users/azabu06/TrainingGame/Library/ShaderCache/a/a71611192af81aab5685f0306477bc26.bin
+      ProjectPath: Library/ShaderCache/a/a71611192af81aab5685f0306477bc26.bin
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/ShaderCache/a/a7ea5b10041acd3081d26d65dc79d92a.bin
+      FullPath: /Users/azabu06/TrainingGame/Library/ShaderCache/a/a7ea5b10041acd3081d26d65dc79d92a.bin
+      ProjectPath: Library/ShaderCache/a/a7ea5b10041acd3081d26d65dc79d92a.bin
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/ShaderCache/a/a82ab4f3a9297ffb3aec3af8601dac42.bin
+      FullPath: /Users/azabu06/TrainingGame/Library/ShaderCache/a/a82ab4f3a9297ffb3aec3af8601dac42.bin
+      ProjectPath: Library/ShaderCache/a/a82ab4f3a9297ffb3aec3af8601dac42.bin
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/ShaderCache/b/bfc2af164ef4f7746d1792f836639698.bin
+      FullPath: /Users/azabu06/TrainingGame/Library/ShaderCache/b/bfc2af164ef4f7746d1792f836639698.bin
+      ProjectPath: Library/ShaderCache/b/bfc2af164ef4f7746d1792f836639698.bin
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/ShaderCache/c/c7e014bd9e1d230e3652172d6e3386fc.bin
+      FullPath: /Users/azabu06/TrainingGame/Library/ShaderCache/c/c7e014bd9e1d230e3652172d6e3386fc.bin
+      ProjectPath: Library/ShaderCache/c/c7e014bd9e1d230e3652172d6e3386fc.bin
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/ShaderCache/c/c7f4e999d9f7743dd232a41834de8ca2.bin
+      FullPath: /Users/azabu06/TrainingGame/Library/ShaderCache/c/c7f4e999d9f7743dd232a41834de8ca2.bin
+      ProjectPath: Library/ShaderCache/c/c7f4e999d9f7743dd232a41834de8ca2.bin
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/ShaderCache/c/c9b4559047efa25b7c86f974c7d3d435.bin
+      FullPath: /Users/azabu06/TrainingGame/Library/ShaderCache/c/c9b4559047efa25b7c86f974c7d3d435.bin
+      ProjectPath: Library/ShaderCache/c/c9b4559047efa25b7c86f974c7d3d435.bin
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/ShaderCache/c/cd042f220e9c8f8e606b88d91d67eeac.bin
+      FullPath: /Users/azabu06/TrainingGame/Library/ShaderCache/c/cd042f220e9c8f8e606b88d91d67eeac.bin
+      ProjectPath: Library/ShaderCache/c/cd042f220e9c8f8e606b88d91d67eeac.bin
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/ShaderCache/d/d00fc61fc63008177640585be511b00b.bin
+      FullPath: /Users/azabu06/TrainingGame/Library/ShaderCache/d/d00fc61fc63008177640585be511b00b.bin
+      ProjectPath: Library/ShaderCache/d/d00fc61fc63008177640585be511b00b.bin
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/ShaderCache/d/d1f20a48b3cf023518cc87bfc37543e6.bin
+      FullPath: /Users/azabu06/TrainingGame/Library/ShaderCache/d/d1f20a48b3cf023518cc87bfc37543e6.bin
+      ProjectPath: Library/ShaderCache/d/d1f20a48b3cf023518cc87bfc37543e6.bin
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/ShaderCache/d/db5ca6fa8b42363b98e63d7ebcf95593.bin
+      FullPath: /Users/azabu06/TrainingGame/Library/ShaderCache/d/db5ca6fa8b42363b98e63d7ebcf95593.bin
+      ProjectPath: Library/ShaderCache/d/db5ca6fa8b42363b98e63d7ebcf95593.bin
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/ShaderCache/e/e3a1ad317a30a8df219e5e158901bb5a.bin
+      FullPath: /Users/azabu06/TrainingGame/Library/ShaderCache/e/e3a1ad317a30a8df219e5e158901bb5a.bin
+      ProjectPath: Library/ShaderCache/e/e3a1ad317a30a8df219e5e158901bb5a.bin
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/ShaderCache/e/e771eecbe60c6449fcdc68fd272376da.bin
+      FullPath: /Users/azabu06/TrainingGame/Library/ShaderCache/e/e771eecbe60c6449fcdc68fd272376da.bin
+      ProjectPath: Library/ShaderCache/e/e771eecbe60c6449fcdc68fd272376da.bin
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/SpriteAtlasDatabase.asset
+      FullPath: /Users/azabu06/TrainingGame/Library/SpriteAtlasDatabase.asset
+      ProjectPath: Library/SpriteAtlasDatabase.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/assetDatabase3
+      FullPath: /Users/azabu06/TrainingGame/Library/assetDatabase3
+      ProjectPath: Library/assetDatabase3
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/expandedItems
+      FullPath: /Users/azabu06/TrainingGame/Library/expandedItems
+      ProjectPath: Library/expandedItems
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/gfu/cache/gitlog.yaml
+      FullPath: /Users/azabu06/TrainingGame/Library/gfu/cache/gitlog.yaml
+      ProjectPath: Library/gfu/cache/gitlog.yaml
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/00/00000000000000001000000000000000
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/00/00000000000000001000000000000000
+      ProjectPath: Library/metadata/00/00000000000000001000000000000000
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/00/00000000000000001000000000000000.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/00/00000000000000001000000000000000.info
+      ProjectPath: Library/metadata/00/00000000000000001000000000000000.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/00/00000000000000002000000000000000
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/00/00000000000000002000000000000000
+      ProjectPath: Library/metadata/00/00000000000000002000000000000000
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/00/00000000000000002000000000000000.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/00/00000000000000002000000000000000.info
+      ProjectPath: Library/metadata/00/00000000000000002000000000000000.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/00/00000000000000003000000000000000
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/00/00000000000000003000000000000000
+      ProjectPath: Library/metadata/00/00000000000000003000000000000000
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/00/00000000000000003000000000000000.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/00/00000000000000003000000000000000.info
+      ProjectPath: Library/metadata/00/00000000000000003000000000000000.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/00/00000000000000004000000000000000
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/00/00000000000000004000000000000000
+      ProjectPath: Library/metadata/00/00000000000000004000000000000000
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/00/00000000000000004000000000000000.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/00/00000000000000004000000000000000.info
+      ProjectPath: Library/metadata/00/00000000000000004000000000000000.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/00/00000000000000004100000000000000
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/00/00000000000000004100000000000000
+      ProjectPath: Library/metadata/00/00000000000000004100000000000000
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/00/00000000000000004100000000000000.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/00/00000000000000004100000000000000.info
+      ProjectPath: Library/metadata/00/00000000000000004100000000000000.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/00/00000000000000005000000000000000
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/00/00000000000000005000000000000000
+      ProjectPath: Library/metadata/00/00000000000000005000000000000000
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/00/00000000000000005000000000000000.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/00/00000000000000005000000000000000.info
+      ProjectPath: Library/metadata/00/00000000000000005000000000000000.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/00/00000000000000005100000000000000
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/00/00000000000000005100000000000000
+      ProjectPath: Library/metadata/00/00000000000000005100000000000000
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/00/00000000000000005100000000000000.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/00/00000000000000005100000000000000.info
+      ProjectPath: Library/metadata/00/00000000000000005100000000000000.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/00/00000000000000006000000000000000
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/00/00000000000000006000000000000000
+      ProjectPath: Library/metadata/00/00000000000000006000000000000000
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/00/00000000000000006000000000000000.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/00/00000000000000006000000000000000.info
+      ProjectPath: Library/metadata/00/00000000000000006000000000000000.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/00/00000000000000006100000000000000
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/00/00000000000000006100000000000000
+      ProjectPath: Library/metadata/00/00000000000000006100000000000000
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/00/00000000000000006100000000000000.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/00/00000000000000006100000000000000.info
+      ProjectPath: Library/metadata/00/00000000000000006100000000000000.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/00/00000000000000007000000000000000
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/00/00000000000000007000000000000000
+      ProjectPath: Library/metadata/00/00000000000000007000000000000000
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/00/00000000000000007000000000000000.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/00/00000000000000007000000000000000.info
+      ProjectPath: Library/metadata/00/00000000000000007000000000000000.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/00/00000000000000007100000000000000
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/00/00000000000000007100000000000000
+      ProjectPath: Library/metadata/00/00000000000000007100000000000000
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/00/00000000000000007100000000000000.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/00/00000000000000007100000000000000.info
+      ProjectPath: Library/metadata/00/00000000000000007100000000000000.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/00/00000000000000008000000000000000
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/00/00000000000000008000000000000000
+      ProjectPath: Library/metadata/00/00000000000000008000000000000000
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/00/00000000000000008000000000000000.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/00/00000000000000008000000000000000.info
+      ProjectPath: Library/metadata/00/00000000000000008000000000000000.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/00/00000000000000009000000000000000
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/00/00000000000000009000000000000000
+      ProjectPath: Library/metadata/00/00000000000000009000000000000000
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/00/00000000000000009000000000000000.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/00/00000000000000009000000000000000.info
+      ProjectPath: Library/metadata/00/00000000000000009000000000000000.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/00/0000000000000000a000000000000000
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/00/0000000000000000a000000000000000
+      ProjectPath: Library/metadata/00/0000000000000000a000000000000000
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/00/0000000000000000a000000000000000.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/00/0000000000000000a000000000000000.info
+      ProjectPath: Library/metadata/00/0000000000000000a000000000000000.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/00/0000000000000000a100000000000000
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/00/0000000000000000a100000000000000
+      ProjectPath: Library/metadata/00/0000000000000000a100000000000000
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/00/0000000000000000a100000000000000.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/00/0000000000000000a100000000000000.info
+      ProjectPath: Library/metadata/00/0000000000000000a100000000000000.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/00/0000000000000000b000000000000000
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/00/0000000000000000b000000000000000
+      ProjectPath: Library/metadata/00/0000000000000000b000000000000000
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/00/0000000000000000b000000000000000.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/00/0000000000000000b000000000000000.info
+      ProjectPath: Library/metadata/00/0000000000000000b000000000000000.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/00/0000000000000000c000000000000000
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/00/0000000000000000c000000000000000
+      ProjectPath: Library/metadata/00/0000000000000000c000000000000000
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/00/0000000000000000c000000000000000.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/00/0000000000000000c000000000000000.info
+      ProjectPath: Library/metadata/00/0000000000000000c000000000000000.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/01/0188ec438976e5849b40a2c1ce5f20f9
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/01/0188ec438976e5849b40a2c1ce5f20f9
+      ProjectPath: Library/metadata/01/0188ec438976e5849b40a2c1ce5f20f9
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/01/0188ec438976e5849b40a2c1ce5f20f9.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/01/0188ec438976e5849b40a2c1ce5f20f9.info
+      ProjectPath: Library/metadata/01/0188ec438976e5849b40a2c1ce5f20f9.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/0b/0b94f1c1a5dcc4786991c7e6d56c7cdd
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/0b/0b94f1c1a5dcc4786991c7e6d56c7cdd
+      ProjectPath: Library/metadata/0b/0b94f1c1a5dcc4786991c7e6d56c7cdd
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/0b/0b94f1c1a5dcc4786991c7e6d56c7cdd.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/0b/0b94f1c1a5dcc4786991c7e6d56c7cdd.info
+      ProjectPath: Library/metadata/0b/0b94f1c1a5dcc4786991c7e6d56c7cdd.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/0d/0d3bb855445e36e479c85976fc88383a
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/0d/0d3bb855445e36e479c85976fc88383a
+      ProjectPath: Library/metadata/0d/0d3bb855445e36e479c85976fc88383a
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/0d/0d3bb855445e36e479c85976fc88383a.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/0d/0d3bb855445e36e479c85976fc88383a.info
+      ProjectPath: Library/metadata/0d/0d3bb855445e36e479c85976fc88383a.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/0f/0fcf678ace4bc134583606b4b31a2157
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/0f/0fcf678ace4bc134583606b4b31a2157
+      ProjectPath: Library/metadata/0f/0fcf678ace4bc134583606b4b31a2157
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/0f/0fcf678ace4bc134583606b4b31a2157.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/0f/0fcf678ace4bc134583606b4b31a2157.info
+      ProjectPath: Library/metadata/0f/0fcf678ace4bc134583606b4b31a2157.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/11/11043fc3a881495409d0828a9dcb372e
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/11/11043fc3a881495409d0828a9dcb372e
+      ProjectPath: Library/metadata/11/11043fc3a881495409d0828a9dcb372e
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/11/11043fc3a881495409d0828a9dcb372e.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/11/11043fc3a881495409d0828a9dcb372e.info
+      ProjectPath: Library/metadata/11/11043fc3a881495409d0828a9dcb372e.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/11/11de699906875419ab14e14f3a34c57f
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/11/11de699906875419ab14e14f3a34c57f
+      ProjectPath: Library/metadata/11/11de699906875419ab14e14f3a34c57f
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/11/11de699906875419ab14e14f3a34c57f.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/11/11de699906875419ab14e14f3a34c57f.info
+      ProjectPath: Library/metadata/11/11de699906875419ab14e14f3a34c57f.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/12/12fd8a0055b84bb59e84c9835a37e333
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/12/12fd8a0055b84bb59e84c9835a37e333
+      ProjectPath: Library/metadata/12/12fd8a0055b84bb59e84c9835a37e333
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/12/12fd8a0055b84bb59e84c9835a37e333.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/12/12fd8a0055b84bb59e84c9835a37e333.info
+      ProjectPath: Library/metadata/12/12fd8a0055b84bb59e84c9835a37e333.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/13/136dc24f151211d438acee17aff4e934
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/13/136dc24f151211d438acee17aff4e934
+      ProjectPath: Library/metadata/13/136dc24f151211d438acee17aff4e934
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/13/136dc24f151211d438acee17aff4e934.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/13/136dc24f151211d438acee17aff4e934.info
+      ProjectPath: Library/metadata/13/136dc24f151211d438acee17aff4e934.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/15/151a1d946b98deb4b98445400983ba92
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/15/151a1d946b98deb4b98445400983ba92
+      ProjectPath: Library/metadata/15/151a1d946b98deb4b98445400983ba92
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/15/151a1d946b98deb4b98445400983ba92.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/15/151a1d946b98deb4b98445400983ba92.info
+      ProjectPath: Library/metadata/15/151a1d946b98deb4b98445400983ba92.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/15/15ca2bebf173f2d4484686a03a45b56d
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/15/15ca2bebf173f2d4484686a03a45b56d
+      ProjectPath: Library/metadata/15/15ca2bebf173f2d4484686a03a45b56d
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/15/15ca2bebf173f2d4484686a03a45b56d.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/15/15ca2bebf173f2d4484686a03a45b56d.info
+      ProjectPath: Library/metadata/15/15ca2bebf173f2d4484686a03a45b56d.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/18/1885381b9414b4432b523189b47fefe8
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/18/1885381b9414b4432b523189b47fefe8
+      ProjectPath: Library/metadata/18/1885381b9414b4432b523189b47fefe8
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/18/1885381b9414b4432b523189b47fefe8.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/18/1885381b9414b4432b523189b47fefe8.info
+      ProjectPath: Library/metadata/18/1885381b9414b4432b523189b47fefe8.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/18/18eb894d53ff491408b69602eb959000
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/18/18eb894d53ff491408b69602eb959000
+      ProjectPath: Library/metadata/18/18eb894d53ff491408b69602eb959000
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/18/18eb894d53ff491408b69602eb959000.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/18/18eb894d53ff491408b69602eb959000.info
+      ProjectPath: Library/metadata/18/18eb894d53ff491408b69602eb959000.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/1b/1bf89c9fbca28724a8d8fbcf427c47f4
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/1b/1bf89c9fbca28724a8d8fbcf427c47f4
+      ProjectPath: Library/metadata/1b/1bf89c9fbca28724a8d8fbcf427c47f4
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/1b/1bf89c9fbca28724a8d8fbcf427c47f4.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/1b/1bf89c9fbca28724a8d8fbcf427c47f4.info
+      ProjectPath: Library/metadata/1b/1bf89c9fbca28724a8d8fbcf427c47f4.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/1c/1c6d1fbb51834b64847b1b73a75bfc77
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/1c/1c6d1fbb51834b64847b1b73a75bfc77
+      ProjectPath: Library/metadata/1c/1c6d1fbb51834b64847b1b73a75bfc77
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/1c/1c6d1fbb51834b64847b1b73a75bfc77.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/1c/1c6d1fbb51834b64847b1b73a75bfc77.info
+      ProjectPath: Library/metadata/1c/1c6d1fbb51834b64847b1b73a75bfc77.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/21/21206c65839f84d0e9ae14bc1fdc68db
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/21/21206c65839f84d0e9ae14bc1fdc68db
+      ProjectPath: Library/metadata/21/21206c65839f84d0e9ae14bc1fdc68db
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/21/21206c65839f84d0e9ae14bc1fdc68db.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/21/21206c65839f84d0e9ae14bc1fdc68db.info
+      ProjectPath: Library/metadata/21/21206c65839f84d0e9ae14bc1fdc68db.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/21/21eff446d50eaf44a85985cd4c0b6fa1
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/21/21eff446d50eaf44a85985cd4c0b6fa1
+      ProjectPath: Library/metadata/21/21eff446d50eaf44a85985cd4c0b6fa1
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/21/21eff446d50eaf44a85985cd4c0b6fa1.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/21/21eff446d50eaf44a85985cd4c0b6fa1.info
+      ProjectPath: Library/metadata/21/21eff446d50eaf44a85985cd4c0b6fa1.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/23/230a8b80e501e4bad8f67d7707ae0cf2
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/23/230a8b80e501e4bad8f67d7707ae0cf2
+      ProjectPath: Library/metadata/23/230a8b80e501e4bad8f67d7707ae0cf2
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/23/230a8b80e501e4bad8f67d7707ae0cf2.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/23/230a8b80e501e4bad8f67d7707ae0cf2.info
+      ProjectPath: Library/metadata/23/230a8b80e501e4bad8f67d7707ae0cf2.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/23/23c8bee69b591054094d32918f98facd
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/23/23c8bee69b591054094d32918f98facd
+      ProjectPath: Library/metadata/23/23c8bee69b591054094d32918f98facd
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/23/23c8bee69b591054094d32918f98facd.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/23/23c8bee69b591054094d32918f98facd.info
+      ProjectPath: Library/metadata/23/23c8bee69b591054094d32918f98facd.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/25/257a907f9a94c4af8b167c1deec1527e
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/25/257a907f9a94c4af8b167c1deec1527e
+      ProjectPath: Library/metadata/25/257a907f9a94c4af8b167c1deec1527e
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/25/257a907f9a94c4af8b167c1deec1527e.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/25/257a907f9a94c4af8b167c1deec1527e.info
+      ProjectPath: Library/metadata/25/257a907f9a94c4af8b167c1deec1527e.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/26/2682a692a2be7e14e901a738c7806da0
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/26/2682a692a2be7e14e901a738c7806da0
+      ProjectPath: Library/metadata/26/2682a692a2be7e14e901a738c7806da0
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/26/2682a692a2be7e14e901a738c7806da0.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/26/2682a692a2be7e14e901a738c7806da0.info
+      ProjectPath: Library/metadata/26/2682a692a2be7e14e901a738c7806da0.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/32/32188fd89022c154c81befa2f0e00be0
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/32/32188fd89022c154c81befa2f0e00be0
+      ProjectPath: Library/metadata/32/32188fd89022c154c81befa2f0e00be0
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/32/32188fd89022c154c81befa2f0e00be0.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/32/32188fd89022c154c81befa2f0e00be0.info
+      ProjectPath: Library/metadata/32/32188fd89022c154c81befa2f0e00be0.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/32/328cc881519068e4eb7db4bb907ad2d9
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/32/328cc881519068e4eb7db4bb907ad2d9
+      ProjectPath: Library/metadata/32/328cc881519068e4eb7db4bb907ad2d9
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/32/328cc881519068e4eb7db4bb907ad2d9.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/32/328cc881519068e4eb7db4bb907ad2d9.info
+      ProjectPath: Library/metadata/32/328cc881519068e4eb7db4bb907ad2d9.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/35/35d26fd3b41e446619dfbf6e451373d9
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/35/35d26fd3b41e446619dfbf6e451373d9
+      ProjectPath: Library/metadata/35/35d26fd3b41e446619dfbf6e451373d9
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/35/35d26fd3b41e446619dfbf6e451373d9.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/35/35d26fd3b41e446619dfbf6e451373d9.info
+      ProjectPath: Library/metadata/35/35d26fd3b41e446619dfbf6e451373d9.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/36/36f73b0d4842ba7448027c0215f522b1
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/36/36f73b0d4842ba7448027c0215f522b1
+      ProjectPath: Library/metadata/36/36f73b0d4842ba7448027c0215f522b1
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/36/36f73b0d4842ba7448027c0215f522b1.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/36/36f73b0d4842ba7448027c0215f522b1.info
+      ProjectPath: Library/metadata/36/36f73b0d4842ba7448027c0215f522b1.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/38/38c8faf1788024c02930a0c68a6e0edc
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/38/38c8faf1788024c02930a0c68a6e0edc
+      ProjectPath: Library/metadata/38/38c8faf1788024c02930a0c68a6e0edc
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/38/38c8faf1788024c02930a0c68a6e0edc.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/38/38c8faf1788024c02930a0c68a6e0edc.info
+      ProjectPath: Library/metadata/38/38c8faf1788024c02930a0c68a6e0edc.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/39/39554ada319544c43b66e9c7e235a6f0
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/39/39554ada319544c43b66e9c7e235a6f0
+      ProjectPath: Library/metadata/39/39554ada319544c43b66e9c7e235a6f0
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/39/39554ada319544c43b66e9c7e235a6f0.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/39/39554ada319544c43b66e9c7e235a6f0.info
+      ProjectPath: Library/metadata/39/39554ada319544c43b66e9c7e235a6f0.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/40/405b9b51bb344a128608d968297df79c
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/40/405b9b51bb344a128608d968297df79c
+      ProjectPath: Library/metadata/40/405b9b51bb344a128608d968297df79c
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/40/405b9b51bb344a128608d968297df79c.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/40/405b9b51bb344a128608d968297df79c.info
+      ProjectPath: Library/metadata/40/405b9b51bb344a128608d968297df79c.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/41/4113173d5e95493ab8765d7b08371de4
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/41/4113173d5e95493ab8765d7b08371de4
+      ProjectPath: Library/metadata/41/4113173d5e95493ab8765d7b08371de4
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/41/4113173d5e95493ab8765d7b08371de4.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/41/4113173d5e95493ab8765d7b08371de4.info
+      ProjectPath: Library/metadata/41/4113173d5e95493ab8765d7b08371de4.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/42/4217e80c8f5b742f6ad9eb2a27fe0104
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/42/4217e80c8f5b742f6ad9eb2a27fe0104
+      ProjectPath: Library/metadata/42/4217e80c8f5b742f6ad9eb2a27fe0104
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/42/4217e80c8f5b742f6ad9eb2a27fe0104.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/42/4217e80c8f5b742f6ad9eb2a27fe0104.info
+      ProjectPath: Library/metadata/42/4217e80c8f5b742f6ad9eb2a27fe0104.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/48/48c22d5d7479fcb49ab3be0cdd2ccec0
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/48/48c22d5d7479fcb49ab3be0cdd2ccec0
+      ProjectPath: Library/metadata/48/48c22d5d7479fcb49ab3be0cdd2ccec0
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/48/48c22d5d7479fcb49ab3be0cdd2ccec0.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/48/48c22d5d7479fcb49ab3be0cdd2ccec0.info
+      ProjectPath: Library/metadata/48/48c22d5d7479fcb49ab3be0cdd2ccec0.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/4b/4b3fa4bde7f1451a8218c03ee6a8ded8
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/4b/4b3fa4bde7f1451a8218c03ee6a8ded8
+      ProjectPath: Library/metadata/4b/4b3fa4bde7f1451a8218c03ee6a8ded8
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/4b/4b3fa4bde7f1451a8218c03ee6a8ded8.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/4b/4b3fa4bde7f1451a8218c03ee6a8ded8.info
+      ProjectPath: Library/metadata/4b/4b3fa4bde7f1451a8218c03ee6a8ded8.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/4b/4ba2329b63d54f0187bcaa12486b1b0f
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/4b/4ba2329b63d54f0187bcaa12486b1b0f
+      ProjectPath: Library/metadata/4b/4ba2329b63d54f0187bcaa12486b1b0f
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/4b/4ba2329b63d54f0187bcaa12486b1b0f.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/4b/4ba2329b63d54f0187bcaa12486b1b0f.info
+      ProjectPath: Library/metadata/4b/4ba2329b63d54f0187bcaa12486b1b0f.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/51/517af1b5b81b93b43b9745d58f017562
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/51/517af1b5b81b93b43b9745d58f017562
+      ProjectPath: Library/metadata/51/517af1b5b81b93b43b9745d58f017562
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/51/517af1b5b81b93b43b9745d58f017562.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/51/517af1b5b81b93b43b9745d58f017562.info
+      ProjectPath: Library/metadata/51/517af1b5b81b93b43b9745d58f017562.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/53/53ebcfaa2e1e4e2dbc85882cd5a73fa1
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/53/53ebcfaa2e1e4e2dbc85882cd5a73fa1
+      ProjectPath: Library/metadata/53/53ebcfaa2e1e4e2dbc85882cd5a73fa1
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/53/53ebcfaa2e1e4e2dbc85882cd5a73fa1.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/53/53ebcfaa2e1e4e2dbc85882cd5a73fa1.info
+      ProjectPath: Library/metadata/53/53ebcfaa2e1e4e2dbc85882cd5a73fa1.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/57/5782f9e9e6e0bb94bac99aeea24814fc
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/57/5782f9e9e6e0bb94bac99aeea24814fc
+      ProjectPath: Library/metadata/57/5782f9e9e6e0bb94bac99aeea24814fc
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/57/5782f9e9e6e0bb94bac99aeea24814fc.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/57/5782f9e9e6e0bb94bac99aeea24814fc.info
+      ProjectPath: Library/metadata/57/5782f9e9e6e0bb94bac99aeea24814fc.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/59/598f7cc167e65424284e573aff0f1294
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/59/598f7cc167e65424284e573aff0f1294
+      ProjectPath: Library/metadata/59/598f7cc167e65424284e573aff0f1294
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/59/598f7cc167e65424284e573aff0f1294.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/59/598f7cc167e65424284e573aff0f1294.info
+      ProjectPath: Library/metadata/59/598f7cc167e65424284e573aff0f1294.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/5c/5c0867b0f679bcd4dabd0752a4a1554b
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/5c/5c0867b0f679bcd4dabd0752a4a1554b
+      ProjectPath: Library/metadata/5c/5c0867b0f679bcd4dabd0752a4a1554b
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/5c/5c0867b0f679bcd4dabd0752a4a1554b.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/5c/5c0867b0f679bcd4dabd0752a4a1554b.info
+      ProjectPath: Library/metadata/5c/5c0867b0f679bcd4dabd0752a4a1554b.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/5f/5f32cd94baa94578a686d4b9d6b660f7
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/5f/5f32cd94baa94578a686d4b9d6b660f7
+      ProjectPath: Library/metadata/5f/5f32cd94baa94578a686d4b9d6b660f7
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/5f/5f32cd94baa94578a686d4b9d6b660f7.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/5f/5f32cd94baa94578a686d4b9d6b660f7.info
+      ProjectPath: Library/metadata/5f/5f32cd94baa94578a686d4b9d6b660f7.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/60/601e714b7fd884b6db5f36f1f1115dca
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/60/601e714b7fd884b6db5f36f1f1115dca
+      ProjectPath: Library/metadata/60/601e714b7fd884b6db5f36f1f1115dca
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/60/601e714b7fd884b6db5f36f1f1115dca.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/60/601e714b7fd884b6db5f36f1f1115dca.info
+      ProjectPath: Library/metadata/60/601e714b7fd884b6db5f36f1f1115dca.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/63/636d33ae594884e7d80b569f429d245d
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/63/636d33ae594884e7d80b569f429d245d
+      ProjectPath: Library/metadata/63/636d33ae594884e7d80b569f429d245d
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/63/636d33ae594884e7d80b569f429d245d.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/63/636d33ae594884e7d80b569f429d245d.info
+      ProjectPath: Library/metadata/63/636d33ae594884e7d80b569f429d245d.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/67/67a48bef50c8f384ab614ca4fd2f1d25
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/67/67a48bef50c8f384ab614ca4fd2f1d25
+      ProjectPath: Library/metadata/67/67a48bef50c8f384ab614ca4fd2f1d25
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/67/67a48bef50c8f384ab614ca4fd2f1d25.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/67/67a48bef50c8f384ab614ca4fd2f1d25.info
+      ProjectPath: Library/metadata/67/67a48bef50c8f384ab614ca4fd2f1d25.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/6a/6a10b2909283487f913b00d94cd3faf5
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/6a/6a10b2909283487f913b00d94cd3faf5
+      ProjectPath: Library/metadata/6a/6a10b2909283487f913b00d94cd3faf5
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/6a/6a10b2909283487f913b00d94cd3faf5.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/6a/6a10b2909283487f913b00d94cd3faf5.info
+      ProjectPath: Library/metadata/6a/6a10b2909283487f913b00d94cd3faf5.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/6d/6d3992434085846d08d6339f49e572e8
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/6d/6d3992434085846d08d6339f49e572e8
+      ProjectPath: Library/metadata/6d/6d3992434085846d08d6339f49e572e8
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/6d/6d3992434085846d08d6339f49e572e8.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/6d/6d3992434085846d08d6339f49e572e8.info
+      ProjectPath: Library/metadata/6d/6d3992434085846d08d6339f49e572e8.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/73/739bbd9f364b4268874f9fd86ab3beef
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/73/739bbd9f364b4268874f9fd86ab3beef
+      ProjectPath: Library/metadata/73/739bbd9f364b4268874f9fd86ab3beef
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/73/739bbd9f364b4268874f9fd86ab3beef.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/73/739bbd9f364b4268874f9fd86ab3beef.info
+      ProjectPath: Library/metadata/73/739bbd9f364b4268874f9fd86ab3beef.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/76/7668179ede524d6396c8b7d84461ea29
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/76/7668179ede524d6396c8b7d84461ea29
+      ProjectPath: Library/metadata/76/7668179ede524d6396c8b7d84461ea29
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/76/7668179ede524d6396c8b7d84461ea29.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/76/7668179ede524d6396c8b7d84461ea29.info
+      ProjectPath: Library/metadata/76/7668179ede524d6396c8b7d84461ea29.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/79/790749ba7e4b18141953e39cb13f1b79
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/79/790749ba7e4b18141953e39cb13f1b79
+      ProjectPath: Library/metadata/79/790749ba7e4b18141953e39cb13f1b79
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/79/790749ba7e4b18141953e39cb13f1b79.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/79/790749ba7e4b18141953e39cb13f1b79.info
+      ProjectPath: Library/metadata/79/790749ba7e4b18141953e39cb13f1b79.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/80/80a3616ca19596e4da0f10f14d241e9f
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/80/80a3616ca19596e4da0f10f14d241e9f
+      ProjectPath: Library/metadata/80/80a3616ca19596e4da0f10f14d241e9f
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/80/80a3616ca19596e4da0f10f14d241e9f.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/80/80a3616ca19596e4da0f10f14d241e9f.info
+      ProjectPath: Library/metadata/80/80a3616ca19596e4da0f10f14d241e9f.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/83/8382b2bb260241859771b69b7f377a8d
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/83/8382b2bb260241859771b69b7f377a8d
+      ProjectPath: Library/metadata/83/8382b2bb260241859771b69b7f377a8d
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/83/8382b2bb260241859771b69b7f377a8d.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/83/8382b2bb260241859771b69b7f377a8d.info
+      ProjectPath: Library/metadata/83/8382b2bb260241859771b69b7f377a8d.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/84/844f815391db42d49455cbf1a7bfc434
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/84/844f815391db42d49455cbf1a7bfc434
+      ProjectPath: Library/metadata/84/844f815391db42d49455cbf1a7bfc434
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/84/844f815391db42d49455cbf1a7bfc434.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/84/844f815391db42d49455cbf1a7bfc434.info
+      ProjectPath: Library/metadata/84/844f815391db42d49455cbf1a7bfc434.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/85/852e56802eb941638acbb491814497b0
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/85/852e56802eb941638acbb491814497b0
+      ProjectPath: Library/metadata/85/852e56802eb941638acbb491814497b0
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/85/852e56802eb941638acbb491814497b0.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/85/852e56802eb941638acbb491814497b0.info
+      ProjectPath: Library/metadata/85/852e56802eb941638acbb491814497b0.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/86/868fbb4c41814baebc00f96e24ede2f8
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/86/868fbb4c41814baebc00f96e24ede2f8
+      ProjectPath: Library/metadata/86/868fbb4c41814baebc00f96e24ede2f8
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/86/868fbb4c41814baebc00f96e24ede2f8.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/86/868fbb4c41814baebc00f96e24ede2f8.info
+      ProjectPath: Library/metadata/86/868fbb4c41814baebc00f96e24ede2f8.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/86/86f4de9468454445ac2f39e207fafa3a
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/86/86f4de9468454445ac2f39e207fafa3a
+      ProjectPath: Library/metadata/86/86f4de9468454445ac2f39e207fafa3a
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/86/86f4de9468454445ac2f39e207fafa3a.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/86/86f4de9468454445ac2f39e207fafa3a.info
+      ProjectPath: Library/metadata/86/86f4de9468454445ac2f39e207fafa3a.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/87/870353891bb340e2b2a9c8707e7419ba
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/87/870353891bb340e2b2a9c8707e7419ba
+      ProjectPath: Library/metadata/87/870353891bb340e2b2a9c8707e7419ba
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/87/870353891bb340e2b2a9c8707e7419ba.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/87/870353891bb340e2b2a9c8707e7419ba.info
+      ProjectPath: Library/metadata/87/870353891bb340e2b2a9c8707e7419ba.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/88/881dc632f96944298b421f4aa18b8b35
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/88/881dc632f96944298b421f4aa18b8b35
+      ProjectPath: Library/metadata/88/881dc632f96944298b421f4aa18b8b35
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/88/881dc632f96944298b421f4aa18b8b35.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/88/881dc632f96944298b421f4aa18b8b35.info
+      ProjectPath: Library/metadata/88/881dc632f96944298b421f4aa18b8b35.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/8a/8aedd2d8172294638a0ad596ada3bdbe
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/8a/8aedd2d8172294638a0ad596ada3bdbe
+      ProjectPath: Library/metadata/8a/8aedd2d8172294638a0ad596ada3bdbe
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/8a/8aedd2d8172294638a0ad596ada3bdbe.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/8a/8aedd2d8172294638a0ad596ada3bdbe.info
+      ProjectPath: Library/metadata/8a/8aedd2d8172294638a0ad596ada3bdbe.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/8e/8e0cd8ed44d4412cbe0642067abc9e44
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/8e/8e0cd8ed44d4412cbe0642067abc9e44
+      ProjectPath: Library/metadata/8e/8e0cd8ed44d4412cbe0642067abc9e44
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/8e/8e0cd8ed44d4412cbe0642067abc9e44.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/8e/8e0cd8ed44d4412cbe0642067abc9e44.info
+      ProjectPath: Library/metadata/8e/8e0cd8ed44d4412cbe0642067abc9e44.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/8e/8e7066e382b0fc749b25dbb1a3004dfe
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/8e/8e7066e382b0fc749b25dbb1a3004dfe
+      ProjectPath: Library/metadata/8e/8e7066e382b0fc749b25dbb1a3004dfe
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/8e/8e7066e382b0fc749b25dbb1a3004dfe.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/8e/8e7066e382b0fc749b25dbb1a3004dfe.info
+      ProjectPath: Library/metadata/8e/8e7066e382b0fc749b25dbb1a3004dfe.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/90/9078b7128e594410d9b89e5b24cffd01
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/90/9078b7128e594410d9b89e5b24cffd01
+      ProjectPath: Library/metadata/90/9078b7128e594410d9b89e5b24cffd01
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/90/9078b7128e594410d9b89e5b24cffd01.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/90/9078b7128e594410d9b89e5b24cffd01.info
+      ProjectPath: Library/metadata/90/9078b7128e594410d9b89e5b24cffd01.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/97/97decbdab0634cdd991f8d23ddf0dead
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/97/97decbdab0634cdd991f8d23ddf0dead
+      ProjectPath: Library/metadata/97/97decbdab0634cdd991f8d23ddf0dead
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/97/97decbdab0634cdd991f8d23ddf0dead.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/97/97decbdab0634cdd991f8d23ddf0dead.info
+      ProjectPath: Library/metadata/97/97decbdab0634cdd991f8d23ddf0dead.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/99/99b48d4d4f6a66340ab06bd487d70a45
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/99/99b48d4d4f6a66340ab06bd487d70a45
+      ProjectPath: Library/metadata/99/99b48d4d4f6a66340ab06bd487d70a45
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/99/99b48d4d4f6a66340ab06bd487d70a45.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/99/99b48d4d4f6a66340ab06bd487d70a45.info
+      ProjectPath: Library/metadata/99/99b48d4d4f6a66340ab06bd487d70a45.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/9f/9f720b0238a5b4c29a959519aaa60a87
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/9f/9f720b0238a5b4c29a959519aaa60a87
+      ProjectPath: Library/metadata/9f/9f720b0238a5b4c29a959519aaa60a87
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/9f/9f720b0238a5b4c29a959519aaa60a87.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/9f/9f720b0238a5b4c29a959519aaa60a87.info
+      ProjectPath: Library/metadata/9f/9f720b0238a5b4c29a959519aaa60a87.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/a0/a0ded7adcc817ce489fec07977f16d13
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/a0/a0ded7adcc817ce489fec07977f16d13
+      ProjectPath: Library/metadata/a0/a0ded7adcc817ce489fec07977f16d13
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/a0/a0ded7adcc817ce489fec07977f16d13.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/a0/a0ded7adcc817ce489fec07977f16d13.info
+      ProjectPath: Library/metadata/a0/a0ded7adcc817ce489fec07977f16d13.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/a1/a1ae072c6d0a6fe42881de7c5c8d66eb
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/a1/a1ae072c6d0a6fe42881de7c5c8d66eb
+      ProjectPath: Library/metadata/a1/a1ae072c6d0a6fe42881de7c5c8d66eb
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/a1/a1ae072c6d0a6fe42881de7c5c8d66eb.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/a1/a1ae072c6d0a6fe42881de7c5c8d66eb.info
+      ProjectPath: Library/metadata/a1/a1ae072c6d0a6fe42881de7c5c8d66eb.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/a6/a60c29817d2444a008aaac2ca7641ea9
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/a6/a60c29817d2444a008aaac2ca7641ea9
+      ProjectPath: Library/metadata/a6/a60c29817d2444a008aaac2ca7641ea9
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/a6/a60c29817d2444a008aaac2ca7641ea9.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/a6/a60c29817d2444a008aaac2ca7641ea9.info
+      ProjectPath: Library/metadata/a6/a60c29817d2444a008aaac2ca7641ea9.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/a8/a83159a46d87d2a4f8cec651049b9231
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/a8/a83159a46d87d2a4f8cec651049b9231
+      ProjectPath: Library/metadata/a8/a83159a46d87d2a4f8cec651049b9231
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/a8/a83159a46d87d2a4f8cec651049b9231.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/a8/a83159a46d87d2a4f8cec651049b9231.info
+      ProjectPath: Library/metadata/a8/a83159a46d87d2a4f8cec651049b9231.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/ad/adebbd281f1a4ef3a30be7f21937e02f
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/ad/adebbd281f1a4ef3a30be7f21937e02f
+      ProjectPath: Library/metadata/ad/adebbd281f1a4ef3a30be7f21937e02f
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/ad/adebbd281f1a4ef3a30be7f21937e02f.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/ad/adebbd281f1a4ef3a30be7f21937e02f.info
+      ProjectPath: Library/metadata/ad/adebbd281f1a4ef3a30be7f21937e02f.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/b2/b2b693dffac3a4433b3114fea0b7fd4e
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/b2/b2b693dffac3a4433b3114fea0b7fd4e
+      ProjectPath: Library/metadata/b2/b2b693dffac3a4433b3114fea0b7fd4e
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/b2/b2b693dffac3a4433b3114fea0b7fd4e.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/b2/b2b693dffac3a4433b3114fea0b7fd4e.info
+      ProjectPath: Library/metadata/b2/b2b693dffac3a4433b3114fea0b7fd4e.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/b2/b2bead50dbf86924f8e51f03ddbebf70
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/b2/b2bead50dbf86924f8e51f03ddbebf70
+      ProjectPath: Library/metadata/b2/b2bead50dbf86924f8e51f03ddbebf70
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/b2/b2bead50dbf86924f8e51f03ddbebf70.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/b2/b2bead50dbf86924f8e51f03ddbebf70.info
+      ProjectPath: Library/metadata/b2/b2bead50dbf86924f8e51f03ddbebf70.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/b8/b8ac56be2af1c4f719aba0ae5cf59250
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/b8/b8ac56be2af1c4f719aba0ae5cf59250
+      ProjectPath: Library/metadata/b8/b8ac56be2af1c4f719aba0ae5cf59250
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/b8/b8ac56be2af1c4f719aba0ae5cf59250.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/b8/b8ac56be2af1c4f719aba0ae5cf59250.info
+      ProjectPath: Library/metadata/b8/b8ac56be2af1c4f719aba0ae5cf59250.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/ba/ba8ad3e6c5be01e448c1f3593515049c
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/ba/ba8ad3e6c5be01e448c1f3593515049c
+      ProjectPath: Library/metadata/ba/ba8ad3e6c5be01e448c1f3593515049c
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/ba/ba8ad3e6c5be01e448c1f3593515049c.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/ba/ba8ad3e6c5be01e448c1f3593515049c.info
+      ProjectPath: Library/metadata/ba/ba8ad3e6c5be01e448c1f3593515049c.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/c5/c5c83d14802e712408f23409f3c59e26
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/c5/c5c83d14802e712408f23409f3c59e26
+      ProjectPath: Library/metadata/c5/c5c83d14802e712408f23409f3c59e26
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/c5/c5c83d14802e712408f23409f3c59e26.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/c5/c5c83d14802e712408f23409f3c59e26.info
+      ProjectPath: Library/metadata/c5/c5c83d14802e712408f23409f3c59e26.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/c7/c743ae24ee231884887054d20ccdd0ae
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/c7/c743ae24ee231884887054d20ccdd0ae
+      ProjectPath: Library/metadata/c7/c743ae24ee231884887054d20ccdd0ae
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/c7/c743ae24ee231884887054d20ccdd0ae.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/c7/c743ae24ee231884887054d20ccdd0ae.info
+      ProjectPath: Library/metadata/c7/c743ae24ee231884887054d20ccdd0ae.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/ca/ca9ef9f91d24fab40addaf0deaf60506
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/ca/ca9ef9f91d24fab40addaf0deaf60506
+      ProjectPath: Library/metadata/ca/ca9ef9f91d24fab40addaf0deaf60506
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/ca/ca9ef9f91d24fab40addaf0deaf60506.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/ca/ca9ef9f91d24fab40addaf0deaf60506.info
+      ProjectPath: Library/metadata/ca/ca9ef9f91d24fab40addaf0deaf60506.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/ca/cab1a58660fb39f4f807d2ca2c727471
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/ca/cab1a58660fb39f4f807d2ca2c727471
+      ProjectPath: Library/metadata/ca/cab1a58660fb39f4f807d2ca2c727471
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/ca/cab1a58660fb39f4f807d2ca2c727471.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/ca/cab1a58660fb39f4f807d2ca2c727471.info
+      ProjectPath: Library/metadata/ca/cab1a58660fb39f4f807d2ca2c727471.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/ca/cad92998c5182496e8b989b406d9f156
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/ca/cad92998c5182496e8b989b406d9f156
+      ProjectPath: Library/metadata/ca/cad92998c5182496e8b989b406d9f156
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/ca/cad92998c5182496e8b989b406d9f156.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/ca/cad92998c5182496e8b989b406d9f156.info
+      ProjectPath: Library/metadata/ca/cad92998c5182496e8b989b406d9f156.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/d5/d516f2a1bec6a9645a084ef8c9237132
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/d5/d516f2a1bec6a9645a084ef8c9237132
+      ProjectPath: Library/metadata/d5/d516f2a1bec6a9645a084ef8c9237132
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/d5/d516f2a1bec6a9645a084ef8c9237132.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/d5/d516f2a1bec6a9645a084ef8c9237132.info
+      ProjectPath: Library/metadata/d5/d516f2a1bec6a9645a084ef8c9237132.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/d9/d91035c548f23744c9bfb107348ed1c0
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/d9/d91035c548f23744c9bfb107348ed1c0
+      ProjectPath: Library/metadata/d9/d91035c548f23744c9bfb107348ed1c0
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/d9/d91035c548f23744c9bfb107348ed1c0.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/d9/d91035c548f23744c9bfb107348ed1c0.info
+      ProjectPath: Library/metadata/d9/d91035c548f23744c9bfb107348ed1c0.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/dc/dc443db3e92b4983b9738c1131f555cb
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/dc/dc443db3e92b4983b9738c1131f555cb
+      ProjectPath: Library/metadata/dc/dc443db3e92b4983b9738c1131f555cb
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/dc/dc443db3e92b4983b9738c1131f555cb.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/dc/dc443db3e92b4983b9738c1131f555cb.info
+      ProjectPath: Library/metadata/dc/dc443db3e92b4983b9738c1131f555cb.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/dd/ddb8611e748af425a82a497ac5a98c0c
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/dd/ddb8611e748af425a82a497ac5a98c0c
+      ProjectPath: Library/metadata/dd/ddb8611e748af425a82a497ac5a98c0c
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/dd/ddb8611e748af425a82a497ac5a98c0c.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/dd/ddb8611e748af425a82a497ac5a98c0c.info
+      ProjectPath: Library/metadata/dd/ddb8611e748af425a82a497ac5a98c0c.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/e1/e1007cd261c84053beb0c3537782908d
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/e1/e1007cd261c84053beb0c3537782908d
+      ProjectPath: Library/metadata/e1/e1007cd261c84053beb0c3537782908d
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/e1/e1007cd261c84053beb0c3537782908d.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/e1/e1007cd261c84053beb0c3537782908d.info
+      ProjectPath: Library/metadata/e1/e1007cd261c84053beb0c3537782908d.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/e1/e1d0d0d9a16ce489c91bae3dba59305b
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/e1/e1d0d0d9a16ce489c91bae3dba59305b
+      ProjectPath: Library/metadata/e1/e1d0d0d9a16ce489c91bae3dba59305b
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/e1/e1d0d0d9a16ce489c91bae3dba59305b.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/e1/e1d0d0d9a16ce489c91bae3dba59305b.info
+      ProjectPath: Library/metadata/e1/e1d0d0d9a16ce489c91bae3dba59305b.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/e4/e416d4d4252234bb7b238e547e4e5ae2
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/e4/e416d4d4252234bb7b238e547e4e5ae2
+      ProjectPath: Library/metadata/e4/e416d4d4252234bb7b238e547e4e5ae2
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/e4/e416d4d4252234bb7b238e547e4e5ae2.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/e4/e416d4d4252234bb7b238e547e4e5ae2.info
+      ProjectPath: Library/metadata/e4/e416d4d4252234bb7b238e547e4e5ae2.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/e9/e9a6695fc6a2c4f08976a8d3d5900372
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/e9/e9a6695fc6a2c4f08976a8d3d5900372
+      ProjectPath: Library/metadata/e9/e9a6695fc6a2c4f08976a8d3d5900372
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/e9/e9a6695fc6a2c4f08976a8d3d5900372.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/e9/e9a6695fc6a2c4f08976a8d3d5900372.info
+      ProjectPath: Library/metadata/e9/e9a6695fc6a2c4f08976a8d3d5900372.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/eb/eb5b1acb216e742fcbe9296569a372b7
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/eb/eb5b1acb216e742fcbe9296569a372b7
+      ProjectPath: Library/metadata/eb/eb5b1acb216e742fcbe9296569a372b7
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/eb/eb5b1acb216e742fcbe9296569a372b7.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/eb/eb5b1acb216e742fcbe9296569a372b7.info
+      ProjectPath: Library/metadata/eb/eb5b1acb216e742fcbe9296569a372b7.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/ec/ecfb28d906a32914d956497c8d3b3395
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/ec/ecfb28d906a32914d956497c8d3b3395
+      ProjectPath: Library/metadata/ec/ecfb28d906a32914d956497c8d3b3395
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/ec/ecfb28d906a32914d956497c8d3b3395.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/ec/ecfb28d906a32914d956497c8d3b3395.info
+      ProjectPath: Library/metadata/ec/ecfb28d906a32914d956497c8d3b3395.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/ed/edbf20872859449a1816a9819beb93a9
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/ed/edbf20872859449a1816a9819beb93a9
+      ProjectPath: Library/metadata/ed/edbf20872859449a1816a9819beb93a9
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/ed/edbf20872859449a1816a9819beb93a9.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/ed/edbf20872859449a1816a9819beb93a9.info
+      ProjectPath: Library/metadata/ed/edbf20872859449a1816a9819beb93a9.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/f5/f5f67c52d1564df4a8936ccd202a3bd8
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/f5/f5f67c52d1564df4a8936ccd202a3bd8
+      ProjectPath: Library/metadata/f5/f5f67c52d1564df4a8936ccd202a3bd8
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/f5/f5f67c52d1564df4a8936ccd202a3bd8.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/f5/f5f67c52d1564df4a8936ccd202a3bd8.info
+      ProjectPath: Library/metadata/f5/f5f67c52d1564df4a8936ccd202a3bd8.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/f7/f70555f144d8491a825f0804e09c671c
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/f7/f70555f144d8491a825f0804e09c671c
+      ProjectPath: Library/metadata/f7/f70555f144d8491a825f0804e09c671c
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/f7/f70555f144d8491a825f0804e09c671c.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/f7/f70555f144d8491a825f0804e09c671c.info
+      ProjectPath: Library/metadata/f7/f70555f144d8491a825f0804e09c671c.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/f7/f7b54ff4a43d4fcf81b4538b678e0bcc
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/f7/f7b54ff4a43d4fcf81b4538b678e0bcc
+      ProjectPath: Library/metadata/f7/f7b54ff4a43d4fcf81b4538b678e0bcc
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/f7/f7b54ff4a43d4fcf81b4538b678e0bcc.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/f7/f7b54ff4a43d4fcf81b4538b678e0bcc.info
+      ProjectPath: Library/metadata/f7/f7b54ff4a43d4fcf81b4538b678e0bcc.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/f9/f9fc9b08ecd899944adf9860b4abd6b6
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/f9/f9fc9b08ecd899944adf9860b4abd6b6
+      ProjectPath: Library/metadata/f9/f9fc9b08ecd899944adf9860b4abd6b6
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/f9/f9fc9b08ecd899944adf9860b4abd6b6.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/f9/f9fc9b08ecd899944adf9860b4abd6b6.info
+      ProjectPath: Library/metadata/f9/f9fc9b08ecd899944adf9860b4abd6b6.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/fe/fe5abeadcbe591e4fa9107fbc02f3998
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/fe/fe5abeadcbe591e4fa9107fbc02f3998
+      ProjectPath: Library/metadata/fe/fe5abeadcbe591e4fa9107fbc02f3998
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/fe/fe5abeadcbe591e4fa9107fbc02f3998.info
+      FullPath: /Users/azabu06/TrainingGame/Library/metadata/fe/fe5abeadcbe591e4fa9107fbc02f3998.info
+      ProjectPath: Library/metadata/fe/fe5abeadcbe591e4fa9107fbc02f3998.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/shadercompiler-UnityShaderCompiler0.log
+      FullPath: /Users/azabu06/TrainingGame/Library/shadercompiler-UnityShaderCompiler0.log
+      ProjectPath: Library/shadercompiler-UnityShaderCompiler0.log
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: ProjectSettings/AudioManager.asset
+      FullPath: /Users/azabu06/TrainingGame/ProjectSettings/AudioManager.asset
+      ProjectPath: ProjectSettings/AudioManager.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: ProjectSettings/ClusterInputManager.asset
+      FullPath: /Users/azabu06/TrainingGame/ProjectSettings/ClusterInputManager.asset
+      ProjectPath: ProjectSettings/ClusterInputManager.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: ProjectSettings/DynamicsManager.asset
+      FullPath: /Users/azabu06/TrainingGame/ProjectSettings/DynamicsManager.asset
+      ProjectPath: ProjectSettings/DynamicsManager.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: ProjectSettings/EditorBuildSettings.asset
+      FullPath: /Users/azabu06/TrainingGame/ProjectSettings/EditorBuildSettings.asset
+      ProjectPath: ProjectSettings/EditorBuildSettings.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: ProjectSettings/EditorSettings.asset
+      FullPath: /Users/azabu06/TrainingGame/ProjectSettings/EditorSettings.asset
+      ProjectPath: ProjectSettings/EditorSettings.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: ProjectSettings/GraphicsSettings.asset
+      FullPath: /Users/azabu06/TrainingGame/ProjectSettings/GraphicsSettings.asset
+      ProjectPath: ProjectSettings/GraphicsSettings.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: ProjectSettings/InputManager.asset
+      FullPath: /Users/azabu06/TrainingGame/ProjectSettings/InputManager.asset
+      ProjectPath: ProjectSettings/InputManager.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: ProjectSettings/NavMeshAreas.asset
+      FullPath: /Users/azabu06/TrainingGame/ProjectSettings/NavMeshAreas.asset
+      ProjectPath: ProjectSettings/NavMeshAreas.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: ProjectSettings/NetworkManager.asset
+      FullPath: /Users/azabu06/TrainingGame/ProjectSettings/NetworkManager.asset
+      ProjectPath: ProjectSettings/NetworkManager.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: ProjectSettings/Physics2DSettings.asset
+      FullPath: /Users/azabu06/TrainingGame/ProjectSettings/Physics2DSettings.asset
+      ProjectPath: ProjectSettings/Physics2DSettings.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: ProjectSettings/ProjectSettings.asset
+      FullPath: /Users/azabu06/TrainingGame/ProjectSettings/ProjectSettings.asset
+      ProjectPath: ProjectSettings/ProjectSettings.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: ProjectSettings/ProjectVersion.txt
+      FullPath: /Users/azabu06/TrainingGame/ProjectSettings/ProjectVersion.txt
+      ProjectPath: ProjectSettings/ProjectVersion.txt
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: ProjectSettings/QualitySettings.asset
+      FullPath: /Users/azabu06/TrainingGame/ProjectSettings/QualitySettings.asset
+      ProjectPath: ProjectSettings/QualitySettings.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: ProjectSettings/TagManager.asset
+      FullPath: /Users/azabu06/TrainingGame/ProjectSettings/TagManager.asset
+      ProjectPath: ProjectSettings/TagManager.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: ProjectSettings/TimeManager.asset
+      FullPath: /Users/azabu06/TrainingGame/ProjectSettings/TimeManager.asset
+      ProjectPath: ProjectSettings/TimeManager.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: ProjectSettings/UnityConnectSettings.asset
+      FullPath: /Users/azabu06/TrainingGame/ProjectSettings/UnityConnectSettings.asset
+      ProjectPath: ProjectSettings/UnityConnectSettings.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/UnityLockfile
+      FullPath: /Users/azabu06/TrainingGame/Temp/UnityLockfile
+      ProjectPath: Temp/UnityLockfile
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: TrainingGame.sln
+      FullPath: /Users/azabu06/TrainingGame/TrainingGame.sln
+      ProjectPath: TrainingGame.sln
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: TrainingGame.userprefs
+      FullPath: /Users/azabu06/TrainingGame/TrainingGame.userprefs
+      ProjectPath: TrainingGame.userprefs
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: obj/Debug/Assembly-CSharp.csproj.FilesWrittenAbsolute.txt
+      FullPath: /Users/azabu06/TrainingGame/obj/Debug/Assembly-CSharp.csproj.FilesWrittenAbsolute.txt
+      ProjectPath: obj/Debug/Assembly-CSharp.csproj.FilesWrittenAbsolute.txt
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: obj/Debug/Assembly-CSharp.dll
+      FullPath: /Users/azabu06/TrainingGame/obj/Debug/Assembly-CSharp.dll
+      ProjectPath: obj/Debug/Assembly-CSharp.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: obj/Debug/Assembly-CSharp.dll.mdb
+      FullPath: /Users/azabu06/TrainingGame/obj/Debug/Assembly-CSharp.dll.mdb
+      ProjectPath: obj/Debug/Assembly-CSharp.dll.mdb
+      OriginalPath: 
+      Status: 4
+      Staged: 0
